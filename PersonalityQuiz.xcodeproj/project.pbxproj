@@ -58,13 +58,21 @@
 			children = (
 				006BFB1627BFE3CD0040B5FA /* AppDelegate.swift */,
 				006BFB1827BFE3CD0040B5FA /* SceneDelegate.swift */,
-				006BFB1A27BFE3CD0040B5FA /* ViewController.swift */,
+				006BFB2A27BFFF9D0040B5FA /* ViewControllers */,
 				006BFB1C27BFE3CD0040B5FA /* Main.storyboard */,
 				006BFB1F27BFE3CE0040B5FA /* Assets.xcassets */,
 				006BFB2127BFE3CE0040B5FA /* LaunchScreen.storyboard */,
 				006BFB2427BFE3CE0040B5FA /* Info.plist */,
 			);
 			path = PersonalityQuiz;
+			sourceTree = "<group>";
+		};
+		006BFB2A27BFFF9D0040B5FA /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				006BFB1A27BFE3CD0040B5FA /* ViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
