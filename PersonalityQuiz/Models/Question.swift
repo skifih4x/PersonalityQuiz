@@ -27,9 +27,9 @@ struct Question {
                 type: .multiple,
                 answers: [
                     Answer(title: "Плавать", animal: .dog),
-                    Answer(title: "Плавать", animal: .cat),
-                    Answer(title: "Плавать", animal: .rabbit),
-                    Answer(title: "Плавать", animal: .turtle)
+                    Answer(title: "Спать", animal: .cat),
+                    Answer(title: "Обнимать", animal: .rabbit),
+                    Answer(title: "Есть", animal: .turtle)
                 ]
             ),
             Question(
